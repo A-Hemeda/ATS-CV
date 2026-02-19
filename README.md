@@ -9,7 +9,7 @@ Download My CV (docx):
 ### Preview
 
 My PDF CV:  
-[Ahmed Hemeda's CV.pdf](https://github.com/user-attachments/files/25425566/A-Hemeda-CV.pdf)
+[Ahmed Hemeda's ATS CV.pdf](https://github.com/user-attachments/files/25425566/A-Hemeda-CV.pdf)
 
 Check my (PDF) CV score in ATS scan:  
 [ResumeGo CV Checker](https://www.resumego.net/resume-checker/)
